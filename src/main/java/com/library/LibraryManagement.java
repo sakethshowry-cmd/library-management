@@ -10,6 +10,7 @@ public class LibraryManagement {
         System.out.println("2. Issue Book");
         System.out.println("3. Return Book");
         System.out.println("4. Reserve Book");
+        int a="hello";
 
     }
 }
